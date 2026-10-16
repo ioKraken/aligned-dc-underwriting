@@ -1,0 +1,12 @@
+metric,value,ci95_low,ci95_high,n,note
+double_coded_n,18.0,,,18,
+single_coded_n (need adjudication),0.0,,,18,
+binary_strict_raw_agreement,0.9444444444444444,,,18,
+binary_strict_disagreement_n,1.0,,,18,
+binary_strict_cohens_kappa,0.7692307692307692,0.0,1.0,18,substantial (0.60-0.80)
+binary_broad_cohens_kappa,1.0,1.0,1.0,18,strong (>0.80)
+intensity_exact_agreement,0.9444444444444444,,,18,
+intensity_weighted_kappa_quadratic,0.9090909090909091,0.6399999999999999,1.0,18,strong (>0.80)
+intensity_weighted_kappa_linear,0.8928571428571429,,,18,strong (>0.80)
+subsector_raw_agreement (both coders strict AI),1.0,,,2,
+phase1_kappa_target,0.7,,,18,MET

@@ -1,0 +1,4 @@
+check,count
+duplicate deal_id,0
+duplicate target|announcement|buyer,0
+"same target, multiple completed deals within 365d",0

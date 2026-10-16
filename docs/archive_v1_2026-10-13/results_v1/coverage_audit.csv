@@ -1,0 +1,4 @@
+check,year,benchmark,benchmark_n,universe_n,coverage_rate,note
+A_annual_counts,,,,,,NOT PERFORMED: no data_raw/external_benchmarks/annual_counts.csv
+B_league_tables,,,,,,NOT PERFORMED: no league_tables.csv
+C_known_deals,,,,,,NOT PERFORMED: no known_deals_audit.csv

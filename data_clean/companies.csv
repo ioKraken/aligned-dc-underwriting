@@ -1,0 +1,86 @@
+company_id,canonical_name,former_name,ticker,exchange,country,website,public_private,sector,subsector
+1,Altair Engineering,,ALTR,NASDAQ,US,,public,Application Software,"Simulation, HPC and AI software"
+2,Siemens,,,,DE,,,,
+3,Alteryx Inc.,,AYX,NYSE,US,,public,Application Software,Analytics automation
+4,Clearlake Capital / Insight Partners,,,,US,,,,
+5,Anaplan Inc.,,PLAN,NYSE,US,,public,Application Software,Connected planning SaaS
+6,Thoma Bravo,,,,US,,,,
+7,Ansys,,ANSS,NASDAQ,US,,public,Application Software,Engineering simulation software
+8,Synopsys,,,,US,,,,
+9,Apptio Inc,,APTI,NASDAQ,US,,public,Application Software,Technology business management (TBM) SaaS
+10,Vista Equity Partners,,,,US,,,,
+11,Avalara,,AVLR,NYSE,US,,public,Application Software,Tax compliance automation (SaaS)
+12,"Carbonite, Inc.",,CARB,NASDAQ,US,,public,Infrastructure Software,"Cloud backup, disaster recovery and data protection"
+13,Open Text Corporation,,,,CA,,,,
+14,Citrix Systems,,CTXS,Nasdaq,US,,public,Infrastructure Software,Digital workspace / virtualization / application delivery
+15,Vista Equity Partners + Elliott (Evergreen Coast Capital) / Cloud Software Group,,,,US,,,,
+16,"Cloudera, Inc.",,CLDR,NYSE,US,,public,Infrastructure Software,Enterprise data cloud / big data platform
+17,"KKR + Clayton, Dubilier & Rice",,,,US,,,,
+18,Cornerstone OnDemand,,CSOD,NASDAQ,US,,public,Application Software,Human capital management / learning (SaaS)
+19,Clearlake Capital,,,,US,,,,
+20,Couchbase,,BASE,NASDAQ,US,,public,Infrastructure Software,Developer data platform / NoSQL database
+21,Haveli Investments,,,,US,,,,
+22,Coupa Software,,COUP,Nasdaq,US,,public,Application Software,Business spend management (procurement / spend SaaS)
+23,Cvent Inc,,CVT,NYSE,US,,public,Application Software,Cloud-based event management software
+24,Dayforce,,DAY,NYSE,US,,public,Application Software,Cloud human capital management (HCM) and payroll software
+25,Demandware Inc,,DWRE,NYSE,US,,public,Application Software,Cloud digital commerce platform
+26,Salesforce.com Inc,,,,US,,,,
+27,"Duck Creek Technologies, Inc.",,DCT,Nasdaq,US,,public,Application Software,Cloud SaaS core systems for P&C / general insurance
+28,Dun & Bradstreet,,DNB,NYSE,US,,public,Application Software,Business data & analytics
+29,Envestnet,,ENV,NYSE,US,,public,Application Software,Wealth management technology platform
+30,Bain Capital,,,,US,,,,
+31,"Everbridge, Inc.",,EVBG,Nasdaq,US,,public,Application Software,Critical event management / public warning software
+32,"Imperva, Inc.",,IMPV,NASDAQ,US,,public,Cybersecurity,Data and application security
+33,Informatica Corp,,INFA,NASDAQ,US,,public,Infrastructure Software,Enterprise data integration software
+34,Permira funds + CPPIB,,,,GB,,,,
+35,Salesforce,,,,US,,,,
+36,"Instructure, Inc.",,INST,NYSE,US,,public,Application Software,"Cloud learning management and education SaaS (Canvas, Bridge)"
+37,"Instructure Holdings, Inc.",,INST,NYSE,US,,public,Application Software,Learning management / education technology (Canvas)
+38,KKR,,,,US,,,,
+39,Jamf Holding,,JAMF,NASDAQ,US,,public,Infrastructure Software,Apple device management and security
+40,Francisco Partners,,,,US,,,,
+41,Juniper Networks,,JNPR,NYSE,US,,public,Hardware OEM,Networking equipment and software
+42,Hewlett Packard Enterprise,,,,US,,,,
+43,Mandiant,,MNDT,NASDAQ,US,,public,Cybersecurity,"Threat intelligence, incident response and security solutions"
+44,Google,,,,US,,,,
+45,Marketo Inc,,MKTO,NASDAQ,US,,public,Application Software,Marketing automation SaaS
+46,"Medidata Solutions, Inc.",,MDSO,NASDAQ,US,,public,Application Software,Cloud platform for clinical trials and life sciences
+47,Dassault Systemes SE,,,,FR,,,,
+48,MeridianLink,,MLNK,NYSE,US,,public,Application Software,"Vertical SaaS for financial institutions (lending, account opening, data verification)"
+49,Centerbridge Partners,,,,US,,,,
+50,Model N,,MODN,NYSE,US,,public,Application Software,Revenue management for life sciences & high tech (SaaS)
+51,Momentive Global,,MNTV,Nasdaq,US,,public,Application Software,Survey / experience management SaaS (SurveyMonkey)
+52,Symphony Technology Group (STG),,,,US,,,,
+53,"MuleSoft, Inc.",,MULE,NYSE,US,,public,Infrastructure Software,API-led application and data integration platform
+54,"New Relic, Inc.",,NEWR,NYSE,US,,public,Infrastructure Software,Observability / application performance monitoring platform
+55,Francisco Partners and TPG,,,,US,,,,
+56,Nuance Communications,,NUAN,NASDAQ,US,,public,Application Software,Conversational AI / healthcare speech
+57,Microsoft,,,,US,,,,
+58,Olo,,OLO,NYSE,US,,public,Application Software,Restaurant digital ordering SaaS platform
+59,Ping Identity,,PING,NYSE,US,,public,Cybersecurity,Identity and access management (enterprise identity security)
+60,"Proofpoint, Inc.",,PFPT,NASDAQ,US,,public,Cybersecurity,"Email security, people-centric security and compliance"
+61,PROS Holdings,,PRO,NYSE,US,,public,Application Software,"AI-driven pricing, CPQ and revenue optimization SaaS"
+62,Qlik Technologies Inc,,QLIK,NASDAQ,US,,public,Application Software,Business intelligence / data visualization and analytics
+63,Qualtrics International,,XM,NASDAQ,US,,public,Application Software,Experience management SaaS
+64,Silver Lake / CPP Investments,,,,US,,,,
+65,RealPage,,RP,NASDAQ,US,,public,Application Software,Property management software & analytics (real estate)
+66,"SailPoint Technologies Holdings, Inc.",,SAIL,NYSE,US,,public,Cybersecurity,Enterprise identity security / identity governance
+67,"Slack Technologies, Inc.",,WORK,NYSE,US,,public,Application Software,Channel-based workplace messaging / collaboration
+68,Smartsheet Inc.,,SMAR,NYSE,US,,public,Application Software,Work management SaaS
+69,Blackstone / Vista Equity Partners,,,,US,,,,
+70,SolarWinds,,SWI,NYSE,US,,public,Infrastructure Software,IT management and observability software
+71,Turn/River Capital,,,,US,,,,
+72,Splunk Inc.,,SPLK,NASDAQ,US,,public,Infrastructure Software,Data / observability / security analytics
+73,Cisco Systems,,,,US,,,,
+74,"Squarespace, Inc.",,SQSP,NYSE,US,,public,Internet / Digital Platform,"Website building, domains and commerce platform"
+75,Permira,,,,GB,,,,
+76,Sumo Logic,,SUMO,NASDAQ,US,,public,Infrastructure Software,Cloud-native observability and security analytics SaaS
+77,"Tableau Software, Inc.",,DATA,NYSE,US,,public,Application Software,Data visualization and business analytics
+78,Talend S.A.,,TLND,NASDAQ,US,,public,Infrastructure Software,Data integration and data integrity / cloud data management
+79,"Ultimate Software Group, Inc.",,ULTI,NASDAQ,US,,public,Application Software,Cloud HCM / payroll (UltiPro)
+80,Hellman & Friedman (investor group),,,,US,,,,
+81,Verint Systems,,VRNT,NASDAQ,US,,public,Application Software,Customer experience (CX) automation software
+82,Zendesk,,ZEN,NYSE,US,,public,Application Software,Customer service / CRM software (SaaS)
+83,Hellman & Friedman + Permira consortium,,,,US,,,,
+84,"Zuora, Inc.",,ZUO,NYSE,US,,public,Application Software,Subscription billing and revenue management SaaS
+85,Silver Lake and GIC,,,,US,,,,

@@ -1,0 +1,12 @@
+{
+  "version": "AI_CLASSIFICATION_V1_20261013",
+  "frozen_on": "20261013",
+  "frozen_file": "ai_treatment_frozen_V1.csv",
+  "frozen_file_sha256": "1f75527337d5e2899d18d2a494972d2d689f20bd11a87a5a7122c9110f29f75d",
+  "n_rows": 54,
+  "n_strict_ai": 3,
+  "n_broad_ai": 16,
+  "rubric_sha256": "21687020d88c791b0fb14fdeb94f03949fffa97a08fa539de95c77129e9f704d",
+  "nlp_threshold_file_sha256": "07c238bae0123033e07c928a91f15aebdfecb551311e3378ee8c954a9c590326",
+  "rule": "No label may change after valuation analysis begins unless a factual classification error is found; log every change in deviations_log.md"
+}

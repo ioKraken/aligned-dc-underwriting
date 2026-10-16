@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.backup.csv
+data_raw/lite_parts/
+data_clean/ai_premium.db

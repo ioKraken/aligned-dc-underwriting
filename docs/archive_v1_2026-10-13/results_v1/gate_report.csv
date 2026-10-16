@@ -1,0 +1,9 @@
+gate_condition,passed,detail
+coder kappa (binary strict) >= 0.70,True,kappa=0.7692307692307692
+candidate-screen recall estimate >= 90%,True,recall=1.0
+no pending adjudication,True,pending=0
+every strict-AI target has a pre-announcement source and >=1 supporting source (no NLP-only labels),True,incomplete=0
+no sources dated after announcement / no tier-D used,True,"violations=0, tierD=0"
+leakage check PASS,True,
+random re-audit complete and error rate <= 5%,True,"status=complete, error=0.0"
+no adjudication-file validation errors,True,errors=0

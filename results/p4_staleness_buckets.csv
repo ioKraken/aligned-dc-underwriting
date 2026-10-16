@@ -1,0 +1,5 @@
+staleness_bucket,non_AI,strict_AI
+0-90,33,1
+91-180,18,2
+181-365,0,0
+>365,0,0

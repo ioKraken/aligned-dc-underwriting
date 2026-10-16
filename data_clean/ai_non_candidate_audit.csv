@@ -1,0 +1,11 @@
+deal_id,target_id,candidate_keyword_hits,ai_class_source,ai_intensity,ai_flag_strict,false_negative_of_keyword_screen
+L24,51,,human_adjudicated,1.0,0.0,0
+L05,23,,human_adjudicated,0.0,0.0,0
+L25,27,,human_adjudicated,0.0,0.0,0
+L26,54,,human_adjudicated,1.0,0.0,0
+L09,77,,human_adjudicated,1.0,0.0,0
+L42,76,,human_adjudicated,1.0,0.0,0
+L04,45,,human_adjudicated,1.0,0.0,0
+L31,29,,human_adjudicated,0.0,0.0,0
+L16,60,,human_adjudicated,1.0,0.0,0
+L15,78,,human_adjudicated,1.0,0.0,0

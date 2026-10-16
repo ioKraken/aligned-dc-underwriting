@@ -1,0 +1,5 @@
+intensity,N,pct,label,note
+0,38,0.7037037037037037,Non-AI,incl. assumed from keyword-screen negatives
+1,13,0.24074074074074073,AI-enabled,
+2,3,0.05555555555555555,AI-native,
+3,0,0.0,Frontier / core AI infrastructure,

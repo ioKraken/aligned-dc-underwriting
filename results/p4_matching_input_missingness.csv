@@ -1,0 +1,12 @@
+variable,N_missing
+deal_id,0
+ai_flag_strict,0
+announce_year,0
+sector,0
+region,0
+revenue_growth,2
+ln_revenue,0
+ebitda_margin,2
+year_bucket,0
+growth_tercile,2
+size_tercile,0

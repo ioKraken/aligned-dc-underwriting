@@ -1,0 +1,11 @@
+{
+  "threshold": 0.3,
+  "rule": "default review trigger (no human labels available yet)",
+  "weights": {
+    "dictionary": 0.5,
+    "tfidf": 0.5
+  },
+  "labelled_n": 19,
+  "supervised": false,
+  "note": "supervised model skipped: 19 labelled targets (3 AI / 16 non-AI); need >= 40 with >= 8 per class. Scores are dictionary-only."
+}

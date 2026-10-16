@@ -1,0 +1,11 @@
+year_bucket,sector_primary,target_region,AI,nonAI,only_AI,only_nonAI,sparse(<3 total)
+2015-18,Application Software,US,0,5,False,True,False
+2015-18,Cybersecurity,US,0,1,False,True,True
+2015-18,Infrastructure Software,US,0,2,False,True,True
+2019-21,Application Software,US,1,7,False,False,False
+2019-21,Cybersecurity,US,0,1,False,True,True
+2019-21,Infrastructure Software,US,0,3,False,True,False
+2022-26,Application Software,US,2,20,False,False,False
+2022-26,Cybersecurity,US,0,3,False,True,False
+2022-26,Infrastructure Software,US,0,8,False,True,False
+2022-26,Internet / Digital Platform,US,0,1,False,True,True

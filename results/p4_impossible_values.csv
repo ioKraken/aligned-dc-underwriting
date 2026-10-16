@@ -1,0 +1,10 @@
+check,N_flagged,deal_ids
+EV <= 0,0,
+Revenue <= 0,0,
+EBITDA > revenue (margin > 100%),0,
+Revenue growth < -100%,0,
+Cash consideration > 100%,0,
+Stock consideration > 100%,0,
+Premium < -100%,0,
+Financial period end after announcement,0,
+Announcement after close,0,

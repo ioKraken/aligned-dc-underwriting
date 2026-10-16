@@ -1,0 +1,5 @@
+check,count
+EV/Revenue zero or negative in EV/Revenue sample,0
+ln(EV/Revenue) NaN introduced in sample,0
+EV/EBITDA assigned to EBITDA <= 0,0
+premium_1d <= -100% in premium sample,0

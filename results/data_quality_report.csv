@@ -1,0 +1,58 @@
+check,severity,deal_id,detail
+EV_missing_in_primary_structure,INFO,L17,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L33,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L25,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L31,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L27,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L07,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L01,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L32,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L41,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L48,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L24,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L16,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L38,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L02,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L18,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L29,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L13,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L20,no EV; falls out at the EV-available step
+EV_missing_in_primary_structure,INFO,L30,no EV; falls out at the EV-available step
+EV_reconciliation_gap,WARN,P04,"|reported EV - bridge EV| / reported EV > 5%; check leases, pensions, earn-outs, investments"
+EV_EBITDA_extreme_flag,WARN,L05,extreme multiple FLAGGED ONLY; no removal before Phase 4 cleaning
+EV_EBITDA_extreme_flag,WARN,L34,extreme multiple FLAGGED ONLY; no removal before Phase 4 cleaning
+EV_EBITDA_extreme_flag,WARN,P01,extreme multiple FLAGGED ONLY; no removal before Phase 4 cleaning
+public_without_price_data,INFO,P06,
+public_without_price_data,INFO,P04,
+public_without_price_data,INFO,L40,
+public_without_price_data,INFO,L06,
+public_without_price_data,INFO,L22,
+public_without_price_data,INFO,L19,
+public_without_price_data,INFO,L17,
+public_without_price_data,INFO,L45,
+public_without_price_data,INFO,L33,
+public_without_price_data,INFO,L21,
+public_without_price_data,INFO,L05,
+public_without_price_data,INFO,L39,
+public_without_price_data,INFO,L03,
+public_without_price_data,INFO,L31,
+public_without_price_data,INFO,L27,
+public_without_price_data,INFO,L01,
+public_without_price_data,INFO,L43,
+public_without_price_data,INFO,L11,
+public_without_price_data,INFO,L32,
+public_without_price_data,INFO,L41,
+public_without_price_data,INFO,L04,
+public_without_price_data,INFO,L12,
+public_without_price_data,INFO,L24,
+public_without_price_data,INFO,L26,
+public_without_price_data,INFO,L23,
+public_without_price_data,INFO,L16,
+public_without_price_data,INFO,L02,
+public_without_price_data,INFO,L18,
+public_without_price_data,INFO,L14,
+public_without_price_data,INFO,P07,
+public_without_price_data,INFO,L35,
+public_without_price_data,INFO,L42,
+public_without_price_data,INFO,L36,
+public_without_price_data,INFO,L20,

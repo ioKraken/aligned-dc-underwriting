@@ -1,0 +1,44 @@
+outcome,stage,step,total_N,ai_candidate_N,non_candidate_N,AI_N,nonAI_N,note,removed_at_step
+EV/Revenue,1,Raw identified tech M&A universe (post-dedupe),55,8,47,,,,
+EV/Revenue,2,Correct period (2015-01-01..2026-09-30),55,8,47,,,,-0.0
+EV/Revenue,3,Primary geography,55,8,47,,,,-0.0
+EV/Revenue,4,Primary sectors,54,8,46,,,,1.0
+EV/Revenue,5,Control transactions,54,8,46,,,,-0.0
+EV/Revenue,6,Status: completed / definitive,54,8,46,,,,-0.0
+EV/Revenue,7,Structural exclusions removed,54,8,46,,,,-0.0
+EV/Revenue,8,EV available,35,6,29,,,,19.0
+EV/Revenue,9,EV >= $25m,35,6,29,,,,-0.0
+EV/Revenue,10,Revenue available,35,6,29,,,,-0.0
+EV/Revenue,11,Revenue >= $5m,35,6,29,,,,-0.0
+EV/Revenue,12,"Financial freshness (<=365d, aligned)",35,6,29,,,,-0.0
+EV/Revenue,13,Quality A-C,35,6,29,,,,-0.0
+EV/Revenue,14,AI coded (Phase 3),35,6,29,,,AI counts are blank until Phase 3; candidate counts are a keyword SCREEN only,-0.0
+EV/EBITDA,1,Raw identified tech M&A universe (post-dedupe),55,8,47,,,,
+EV/EBITDA,2,Correct period (2015-01-01..2026-09-30),55,8,47,,,,-0.0
+EV/EBITDA,3,Primary geography,55,8,47,,,,-0.0
+EV/EBITDA,4,Primary sectors,54,8,46,,,,1.0
+EV/EBITDA,5,Control transactions,54,8,46,,,,-0.0
+EV/EBITDA,6,Status: completed / definitive,54,8,46,,,,-0.0
+EV/EBITDA,7,Structural exclusions removed,54,8,46,,,,-0.0
+EV/EBITDA,8,EV available,35,6,29,,,,19.0
+EV/EBITDA,9,EV >= $25m,35,6,29,,,,-0.0
+EV/EBITDA,10,Revenue available,35,6,29,,,,-0.0
+EV/EBITDA,11,Revenue >= $5m,35,6,29,,,,-0.0
+EV/EBITDA,12,"Financial freshness (<=365d, aligned)",35,6,29,,,,-0.0
+EV/EBITDA,13,Quality A-C,35,6,29,,,,-0.0
+EV/EBITDA,14,EBITDA available,33,5,28,,,,2.0
+EV/EBITDA,15,EBITDA > 0,17,5,12,,,,16.0
+EV/EBITDA,16,AI coded (Phase 3),17,5,12,,,AI counts are blank until Phase 3; candidate counts are a keyword SCREEN only,-0.0
+Takeover premium,1,Raw identified tech M&A universe (post-dedupe),55,8,47,,,,
+Takeover premium,2,Correct period (2015-01-01..2026-09-30),55,8,47,,,,-0.0
+Takeover premium,3,Primary geography,55,8,47,,,,-0.0
+Takeover premium,4,Primary sectors,54,8,46,,,,1.0
+Takeover premium,5,Control transactions,54,8,46,,,,-0.0
+Takeover premium,6,Status: completed / definitive,54,8,46,,,,-0.0
+Takeover premium,7,Structural exclusions removed,54,8,46,,,,-0.0
+Takeover premium,8,Public target,54,8,46,,,,-0.0
+Takeover premium,9,Offer price available,54,8,46,,,,-0.0
+Takeover premium,10,Unaffected price available,20,2,18,,,,34.0
+Takeover premium,11,Unaffected date valid (< announcement),20,2,18,,,,-0.0
+Takeover premium,12,Quality A-C,20,2,18,,,,-0.0
+Takeover premium,13,AI coded (Phase 3),20,2,18,,,AI counts are blank until Phase 3; candidate counts are a keyword SCREEN only,-0.0

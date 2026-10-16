@@ -1,0 +1,12 @@
+{
+  "DATA_VERSION": "ANALYSIS_V1_PHASE4",
+  "file": "deals_analysis_v1.csv",
+  "sha256": "4d6cc5b8a0bef37032ae54db5d9f649f9dcc10edcabb758f5a2d714ce853eb0e",
+  "rows": 55,
+  "columns": 70,
+  "created": "2026-10-13",
+  "treatment_version": "AI_CLASSIFICATION_V1_20261013",
+  "treatment_sha256": "1f75527337d5e2899d18d2a494972d2d689f20bd11a87a5a7122c9110f29f75d",
+  "raw_snapshot_sha256": "7e6d624573e1470e731d1c38808f5cdd5079d37d4fbf986e90d4e2f1801f3222",
+  "rule": "Any correction creates ANALYSIS_V2 and a deviations_log entry"
+}

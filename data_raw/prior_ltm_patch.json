@@ -1,0 +1,74 @@
+[
+ {
+  "id": "P04",
+  "rev_prior": 728081000,
+  "prior_note": "Prior LTM to 2022-09-30 = FY2021 536,135 (10-K FY2021, income statement R3) + 9M2022 554,276 (Q3 2022 10-Q) - 9M2021 362,330 (Q3 2021 10-Q and Q3 2022 10-Q comparative) = 728,081 (USD thousands). No restatement noted; 9M21 identical in both filings.",
+  "confidence": "high"
+ },
+ {
+  "id": "P02",
+  "rev_prior": 1519829000,
+  "prior_note": "Prior LTM to 2019-12-31 (Nuance FY ends Sep 30) = FY2019 1,521,271 (FY2020 10-K, recast for Automotive/Cerence as discontinued ops) + Q1 FY2020 (3M to 2019-12-31) 418,233 - Q1 FY2019 419,675 (both from Q1 FY2020 10-Q, continuing ops) = 1,519,829 (USD thousands). Same continuing-ops basis as the 2020-12-31 LTM; the original FY2019 10-K (1,829.5m incl. Automotive) was not used.",
+  "confidence": "high"
+ },
+ {
+  "id": "L22",
+  "rev_prior": 595307000,
+  "prior_note": "Prior LTM to 2021-06-30 = FY2020 500,569 (FY2020 10-K) + 6M2021 322,668 (from existing record fin_note, Q2 2022 10-Q comparative; not re-fetched from Q2 2021 10-Q) - 6M2020 227,930 (Q2 2020 10-Q) = 595,307 (USD thousands). No restatement noted.",
+  "confidence": "medium"
+ },
+ {
+  "id": "L19",
+  "rev_prior": 3236867000,
+  "prior_note": "Prior LTM to 2020-09-30 = FY2019 total net revenues 3,010,564 (FY2019 10-K) + 9M2020 2,427,044 - 9M2019 2,200,741 (both Q3 2020 10-Q) = 3,236,867 (USD thousands). All periods on ASC 606 (adopted 2018), consistent basis.",
+  "confidence": "high"
+ },
+ {
+  "id": "L21",
+  "rev_prior": 695535000,
+  "prior_note": "Prior LTM to 2021-10-31 = FY ended 2021-01-31 541,643 (8-K Q4 FY21 release, sec.gov 000138586721000006) + 9M ended 2021-10-31 531,991 - 9M ended 2020-10-31 378,099 (Q3 FY22 10-Q, 000138586722000047/Q3 FY22 comparatives; fetched from 10-Q coup-20211031) = 695,535 (USD K). Same filings/basis as the current LTM; no restatement noted.",
+  "confidence": "high"
+ },
+ {
+  "id": "L43",
+  "rev_prior": 1618336000,
+  "prior_note": "Prior LTM to 2024-03-31 = FY2023 1,595,160 (10-K FY2023 R5, 0001868778-24-000006) + Q1'24 388,607 (Q1'24 8-K release shows $388.6M; exact 388,607 from existing record fin_note/10-Q) - Q1'23 365,431 (10-Q 0001868778-23-000018) = 1,618,336 (USD K). Same basis; no restatement noted.",
+  "confidence": "high"
+ },
+ {
+  "id": "L04",
+  "rev_prior": 163662000,
+  "prior_note": "Prior LTM to 2015-03-31 = FY2014 149,954 (FY2015 10-K comparatives, per existing record; 10-K text confirms $150.0M) + Q1'15 46,000 - Q1'14 32,292 (Q1'15 10-Q 0001104659-15-036261) = 163,662 (USD K). Same pre-ASC 606 basis.",
+  "confidence": "high"
+ },
+ {
+  "id": "L34",
+  "rev_prior": 242560000,
+  "prior_note": "Prior LTM to 2024-03-31 = FY2023 228,289 (Q4'23 8-K ex99.1, 0001431695-24-000006) + Q1'24 66,511 - Q1'23 52,240 (Q1'24 8-K ex99.1, 0001431695-24-000014) = 242,560 (USD K). Earnings-release figures; no restatement noted.",
+  "confidence": "high"
+ },
+ {
+  "id": "L23",
+  "rev_prior": 271044000,
+  "prior_note": "Prior LTM to 2021-06-30 = FY2020 243,589 (Q4'20 earnings release 2021-02-24) + 6M21 147,848 (Q2'21 8-K ex99.1, 0001558370-21-010223) - 6M20 120,393 (same release comparatives) = 271,044 (USD K). Earnings-release figures; no restatement noted.",
+  "confidence": "medium"
+ },
+ {
+  "id": "L46",
+  "rev_prior": 960343000,
+  "prior_note": "Prior LTM to 9/30/2019 ($000) = FY2018 869,480 + 9M 2019 733,369 - 9M 2018 642,506 = 960,343. Sources: SEC XBRL companyconcept (Revenues/RevenueFromContractWithCustomer) for FY2018 10-K (0001286225-19-000007; same value in later 10-Ks), 10-Q 9/30/2019 (0001286225-19-000039), 10-Q 9/30/2018 (0001286225-18-000038). 9M19 figure matches the one used in the current LTM. ASC 606 adopted 2018 (all periods post-adoption, same basis).",
+  "confidence": "high"
+ },
+ {
+  "id": "L35",
+  "rev_prior": 747670000,
+  "prior_note": "Prior LTM to 9/30/2023 ($000) = FY2022 719,367 + 9M 2023 560,601 - 9M 2022 532,298 = 747,670. Sources: SEC XBRL companyconcept for FY2022 10-K (0001739942-23-000019), 10-Q 9/30/2023 (0001739942-23-000116), 10-Q 9/30/2022 (0001739942-22-000100). Values unchanged across later re-filings; 9M23 matches current-LTM input.",
+  "confidence": "high"
+ },
+ {
+  "id": "L36",
+  "rev_prior": 915098000,
+  "prior_note": "Prior LTM to 4/30/2024 ($000) = FY ended 1/31/2024 910,387 + Q1 FY25 221,277 - Q1 FY24 216,566 = 915,098. Sources: SEC XBRL companyconcept for FY24 10-K (0001166388-24-000015), Q1 FY25 10-Q (0001166388-24-000090), Q1 FY24 10-Q (0001166388-23-000094). FY24 value reaffirmed in FY25 10-K and Q1 FY25 value in Q1 FY26 10-Q (no restatement).",
+  "confidence": "high"
+ }
+]

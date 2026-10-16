@@ -1,0 +1,8 @@
+check,result,detail
+coder_file_has_no_valuation_columns,PASS,
+coder_text_has_no_money_or_multiple_phrases,PASS,
+nlp_corpus_has_no_valuation_text,PASS,0 rows
+nlp_loaded_only_whitelisted_non_valuation_deal_columns,PASS,
+acquirer_announcement_language_excluded_from_corpus,PASS,announcement_description not used
+phase3_scripts_load_only_whitelisted_non_valuation_deal_columns,PASS,enforced by assert_no_valuation_columns()
+final_treatment_file_has_no_valuation_columns,PASS,

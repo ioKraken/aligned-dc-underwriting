@@ -1,0 +1,2 @@
+N,cooks_threshold_4_over_N,N_cooks_flagged,dfbeta_threshold_2_over_sqrtN,N_dfbeta_flagged,note
+31,0.12903225806451613,5,0.3592106040535498,3,diagnostic model only; AI coefficient intentionally not reported

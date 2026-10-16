@@ -1,0 +1,4 @@
+check,result,detail
+nlp_corpus_has_no_valuation_text,PASS,0 rows
+nlp_loaded_only_whitelisted_non_valuation_deal_columns,PASS,
+acquirer_announcement_language_excluded_from_corpus,PASS,announcement_description not used

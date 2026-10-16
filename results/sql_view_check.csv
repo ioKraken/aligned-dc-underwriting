@@ -1,0 +1,5 @@
+view,rows_sql,rows_pandas_waterfall,match
+v_evrev_candidates,35,35.0,True
+v_public_premium_candidates,20,20.0,True
+v_ebitda_candidates,17,17.0,True
+v_ai_coding_blind (no valuation columns),54,,True

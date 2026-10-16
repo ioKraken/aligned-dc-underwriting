@@ -1,0 +1,10 @@
+test,n_AI,n_nonAI,assumed_resid_sd,SE,MDE_log_points,MDE_pct,"cells(AI1,AI0,non1,non0)",note
+EV/Revenue AI main effect (ln),2.0,33.0,0.7,0.5097533568780934,1.2667370918420622,2.5492527623131958,,
+EV/Revenue AI main effect (ln),2.0,33.0,0.9,0.6553971731289773,1.6286619752255085,4.097050174440132,,
+Takeover premium AI main effect (pp),2.0,18.0,0.25,0.18633899812498247,,0.4630524103405814,,
+AI x Strategic interaction (ln EV/Rev),2.0,33.0,0.7,1.0248435723690161,2.546736277337005,11.76537308355698,1/1/10/23,
+AI x Strategic interaction (ln EV/Rev),2.0,33.0,0.9,1.3176560216173065,3.2743752137190065,25.42670927614356,1/1/10/23,
+AI x PostGenAI interaction (ln EV/Rev),2.0,33.0,0.7,1.0195334861650032,2.5335407131200327,11.598033282955848,1/1/16/17,
+AI x PostGenAI interaction (ln EV/Rev),2.0,33.0,0.9,1.3108287679264325,3.257409488297185,24.982142842248365,1/1/16/17,
+AI x Public interaction,,,,,,,,"an interaction cell is empty [2, 0, 33, 0]; not estimable"
+Phase 1 target,,,,,,,,strict AI N in EV/Rev sample = 2 vs target 60 -> REDUCED POWER (do not broaden the definition)

@@ -1,0 +1,2 @@
+N_universe_for_selection_model,raw_inclusion_rate_AI,raw_inclusion_rate_nonAI,ai_coefficient_log_odds,avg_pred_inclusion_if_AI,avg_pred_inclusion_if_nonAI,note
+54,0.6666666666666666,0.6470588235294118,-0.25239731612740907,0.6056597974872505,0.6511324150419613,diagnostic only; not used to correct the main regression

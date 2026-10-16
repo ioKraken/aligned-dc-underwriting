@@ -1,0 +1,6 @@
+outcome,AI_mean,nonAI_mean,AI_median,nonAI_median,welch_diff,welch_t,welch_p,welch_ci_low,welch_ci_high,mwu_p,rank_biserial,cohens_d,n_AI,n_nonAI,label
+ln(EV/Revenue),1.7015082567514823,2.1088967972485784,1.7015082567514823,2.07782032657169,,,,,,,,,2,33,descriptive / unadjusted - not an AI premium
+EV/Revenue (raw),7.848344728628552,9.49101242434219,7.848344728628552,7.987040786809373,,,,,,,,,2,33,descriptive / unadjusted - not an AI premium
+Revenue growth,,0.2459600060721294,,0.2397449103247697,,,,,,,,,0,21,descriptive / unadjusted - not an AI premium
+EBITDA margin,0.15225093887451846,-0.030206529265359564,0.15225093887451846,-0.0424227595471118,,,,,,,,,2,31,descriptive / unadjusted - not an AI premium
+Premium 1D,0.3227140259246455,0.32926658784848395,0.3227140259246455,0.29062738515277203,,,,,,,,,2,18,descriptive / unadjusted - not an AI premium

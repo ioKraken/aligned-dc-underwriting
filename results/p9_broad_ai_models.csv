@@ -1,0 +1,4 @@
+model,treatment,beta,pct,ci_lo,ci_hi,hc3_p,perm_p_two_sided,N,AI_N,label
+(1) broad AI only,ai_flag_broad,-0.2215794226575396,-19.8747717964864,-0.7074559941737886,0.26429714885870936,0.35867191842263063,0.3109378124375125,31,9,"EXPLORATORY - broad AI, tiny sample, not the pre-registered test"
+"(2) + growth, margin, size",ai_flag_broad,-0.08030536478200101,-7.716549780040566,-0.5845518423640613,0.4239411128000593,0.7460169771152186,0.7162567486502699,31,9,"EXPLORATORY - broad AI, tiny sample, not the pre-registered test"
+"(3) + period, strategic",ai_flag_broad,-0.4622179446154109,-37.01149550727686,-0.9913214608195158,0.06688557158869401,0.083838460020872,0.029994001199760048,31,9,"EXPLORATORY - broad AI, tiny sample, not the pre-registered test"

@@ -1,0 +1,3 @@
+model,N_AI,N_nonAI,outcome_sd,MDE_log_points,MDE_percent,note
+EV/Revenue (log),2,33,0.5448443011360087,1.1115738065957244,2.039137647514174,"unconditional SD (conservative; covariates will reduce it); alpha .05, power .80"
+Takeover premium 1D,2,18,0.18606796375143633,,0.38854308996549924,MDE in premium percentage points (fraction)

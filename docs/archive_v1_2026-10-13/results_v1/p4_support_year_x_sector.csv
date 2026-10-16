@@ -1,0 +1,17 @@
+announce_year,sector,nonAI_N,AI_N,sparse_AI_lt3,no_support_one_group_empty
+2016,Application Software,3,0,1,1
+2018,Application Software,1,0,1,1
+2018,Infrastructure Software,1,0,1,1
+2019,Application Software,3,0,1,1
+2019,Infrastructure Software,1,0,1,1
+2020,Application Software,2,0,1,1
+2021,Application Software,1,1,1,0
+2021,Infrastructure Software,1,0,1,1
+2022,Application Software,3,0,1,1
+2022,Cybersecurity,1,0,1,1
+2022,Infrastructure Software,1,0,1,1
+2023,Application Software,2,0,1,1
+2023,Infrastructure Software,3,0,1,1
+2024,Application Software,4,0,1,1
+2025,Application Software,4,1,1,0
+2025,Infrastructure Software,2,0,1,1

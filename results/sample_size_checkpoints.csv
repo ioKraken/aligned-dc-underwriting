@@ -1,0 +1,12 @@
+checkpoint,N,phase1_target,meets_target
+Total deals in universe (period),55.0,,
+Deals with EV,36.0,,
+Deals with revenue,55.0,,
+Deals with growth,48.0,,
+Deals with EBITDA,53.0,,
+Public deals with price data,21.0,,
+"Candidate AI deals (keyword screen, NOT final)",8.0,,
+"EV/Revenue research sample (A-C, fresh)",35.0,250.0,False
+EV/Revenue sample with growth available,33.0,,
+Public premium sample,20.0,120.0,False
+AI-native >=60 (assessed after Phase 3),,60.0,

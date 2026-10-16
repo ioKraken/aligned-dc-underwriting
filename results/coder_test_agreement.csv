@@ -1,0 +1,5 @@
+test,raw_agreement,cohens_kappa,disagree_n
+product_test,0.9444444444444444,0.7692307692307692,1
+technical_asset_test,1.0,1.0,0
+revenue_test,1.0,1.0,0
+persistence_12m,1.0,1.0,0

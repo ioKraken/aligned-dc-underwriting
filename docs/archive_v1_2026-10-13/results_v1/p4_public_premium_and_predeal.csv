@@ -1,0 +1,7 @@
+variable,N_AI,N_nonAI,AI_median,nonAI_median,unadjusted_median_difference,mwu_p
+premium_1d,2,18,0.3227140259246455,0.29062738515277203,0.032086640771873454,
+premium_1w,0,0,,,,
+premium_1m,0,0,,,,
+premium_vwap30,0,2,,0.40293766403288284,,
+predeal_ev_revenue,0,0,,,,
+ev_revenue,1,12,13.464561547399358,8.178207684147669,5.286353863251689,

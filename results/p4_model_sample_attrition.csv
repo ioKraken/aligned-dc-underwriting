@@ -1,0 +1,6 @@
+model,N,AI_N,nonAI_N
+Unconditional,35,2,33
+Fundamentals,31,2,29
++ Year FE,31,2,29
++ Sector FE,31,2,29
+"Preferred (+ region, public, strategic)",31,2,29

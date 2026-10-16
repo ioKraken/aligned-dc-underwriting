@@ -1,0 +1,19 @@
+coder_row,deal_id,target_id,coding_pool,ai_candidate_flag,candidate_keyword_hits
+1,L24,51,audit_random_20pct,0.0,
+2,L33,20,candidate,1.0,\bAI\b
+3,P02,56,candidate,1.0,\bAI\b
+4,L05,23,audit_random_20pct,0.0,
+5,L25,27,audit_random_20pct,0.0,
+6,L26,54,audit_random_20pct,0.0,
+7,L36,81,candidate,1.0,\bAI\b
+8,L12,46,candidate,1.0,\bAI\b
+9,L09,77,audit_random_20pct,0.0,
+10,L43,33,candidate,1.0,artificial intelligence
+11,L42,76,audit_random_20pct,0.0,
+12,P04,3,candidate,1.0,machine[- ]learning
+13,P06,1,candidate,1.0,artificial intelligence
+14,L38,61,candidate,1.0,artificial intelligence
+15,L04,45,audit_random_20pct,0.0,
+16,L31,29,audit_random_20pct,0.0,
+17,L16,60,audit_random_20pct,0.0,
+18,L15,78,audit_random_20pct,0.0,

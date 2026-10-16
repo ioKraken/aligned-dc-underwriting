@@ -1,0 +1,56 @@
+deal_id,announce_year,public_target,sector_primary,target_region,ev_usd,revenue_ltm_usd,ai_candidate,InSample
+P06,2024,1,Application Software,US,10000000000.0,644660000.0,1,1
+P04,2023,1,Application Software,US,4400000000.0,920000000.0,1,1
+P03,2022,1,Application Software,US,10100629000.0,592176000.0,0,1
+L40,2024,1,Application Software,US,35000000000.0,2158956000.0,0,1
+L06,2018,1,Application Software,US,1794728000.0,224705000.0,0,1
+L22,2022,1,Application Software,US,8400000000.0,789432000.0,0,1
+L10,2019,1,Infrastructure Software,US,1420000000.0,405287000.0,0,1
+L19,2022,1,Infrastructure Software,US,16500000000.0,3175978000.0,0,1
+L17,2021,1,Infrastructure Software,US,,883081000.0,0,0
+L45,2021,1,Application Software,US,5200000000.0,800053000.0,0,1
+L33,2025,1,Infrastructure Software,US,,214662000.0,1,0
+L21,2022,1,Application Software,US,8000000000.0,818108000.0,0,1
+L05,2016,1,Application Software,US,1504539000.0,187716000.0,0,1
+L39,2025,1,Application Software,US,12300000000.0,1851700000.0,0,1
+L03,2016,1,Application Software,US,2800000000.0,254083000.0,0,1
+L25,2023,1,Application Software,US,,310082000.0,0,0
+L44,2025,1,Application Software,US,7700000000.0,2381700000.0,0,1
+L31,2024,1,Application Software,US,,1271863000.0,0,0
+L27,2024,1,Application Software,US,,450158000.0,0,0
+L07,2018,1,Cybersecurity,US,,344017000.0,0,0
+L01,2015,1,Infrastructure Software,US,,1047954000.0,0,0
+L43,2025,1,Infrastructure Software,US,8553288000.0,1655308000.0,1,1
+L11,2019,1,Application Software,US,1872795000.0,245529000.0,0,1
+L28,2024,1,Application Software,US,4800000000.0,556822000.0,0,1
+L32,2025,1,Infrastructure Software,US,,666382000.0,0,0
+P05,2024,1,,US,14211400000.0,5648500000.0,0,0
+L41,2022,1,Cybersecurity,US,,483455000.0,0,0
+L04,2016,1,Application Software,US,1697253000.0,226085000.0,0,1
+L12,2019,1,Application Software,US,5800000000.0,660002000.0,1,1
+L37,2025,1,Application Software,US,2000000000.0,325891000.0,0,1
+L48,2024,1,Application Software,US,,253800000.0,0,0
+L24,2023,1,Application Software,US,,480917000.0,0,0
+L08,2018,1,Infrastructure Software,US,6500000000.0,296456000.0,0,1
+L26,2023,1,Infrastructure Software,US,6120232000.0,925626000.0,0,1
+P02,2021,1,Application Software,US,19700000000.0,1463100000.0,1,1
+L34,2025,1,Application Software,US,1641528000.0,299107000.0,0,1
+L23,2022,1,Cybersecurity,US,2800000000.0,308319000.0,0,1
+L16,2021,1,Cybersecurity,US,,1050010000.0,0,0
+L38,2025,1,Application Software,US,,342708000.0,1,0
+L02,2016,1,Application Software,US,,630498000.0,0,0
+P08,2023,1,Application Software,US,11680100000.0,1458600000.0,0,1
+L46,2020,1,Application Software,US,10200000000.0,1115196000.0,0,1
+L18,2022,1,Cybersecurity,US,,438954000.0,0,0
+L14,2020,1,Application Software,US,27700000000.0,768142000.0,0,1
+P07,2024,1,Application Software,US,7693400000.0,1042200000.0,0,1
+L35,2025,1,Infrastructure Software,US,4400000000.0,784725000.0,0,1
+P01,2023,1,Infrastructure Software,US,29430398000.0,3843300000.0,0,1
+L29,2024,1,Internet / Digital Platform,US,,1056456000.0,0,0
+L42,2023,1,Infrastructure Software,US,1377856000.0,287964000.0,0,1
+L09,2019,1,Application Software,US,15700000000.0,1191605000.0,0,1
+L15,2021,1,Infrastructure Software,US,2400000000.0,287471000.0,0,1
+L13,2019,1,Application Software,US,,1140546000.0,0,0
+L36,2025,1,Application Software,US,2000000000.0,896006000.0,1,1
+L20,2022,1,Application Software,US,,1428882000.0,0,0
+L30,2024,1,Application Software,US,,445683000.0,0,0

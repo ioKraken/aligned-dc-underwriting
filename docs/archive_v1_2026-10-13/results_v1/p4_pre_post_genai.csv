@@ -1,0 +1,3 @@
+period,AI_N,nonAI_N,AI_median_EV_Rev,nonAI_median_EV_Rev,note
+Pre-Nov 2022,1,17,13.464561547399358,8.787852158023764,descriptive; not a causal difference-in-differences
+Post-Nov 2022,1,16,2.2321279098577467,6.627268502607824,descriptive; not a causal difference-in-differences

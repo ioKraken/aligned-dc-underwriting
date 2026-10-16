@@ -1,0 +1,41 @@
+deal_id,target_name,ai_flag_strict,ev_revenue,revenue_growth,ebitda_margin,ltm_revenue,enterprise_value,staleness_days,quality_flag,suggested_category,verified_source,verified_revenue_denominator,verified_ev,final_category,list
+L14,"Slack Technologies, Inc.",0.0,36.06104079714428,0.5138517448448885,-0.3942812657034767,768142000.0,27700000000.0,123,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+L08,"MuleSoft, Inc.",0.0,21.92568205737108,0.579018572866677,-0.2562336400680033,296456000.0,6500000000.0,79,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+P03,Anaplan Inc.,0.0,17.056802369565805,0.3224117909781152,-0.2907902380373403,592176000.0,10100629000.0,48,C,needs_review (true extreme or data error),,,,,top10_ev_revenue
+L40,Ansys,0.0,16.211539281022866,0.0650439913078009,0.3152338445063262,2158956000.0,35000000000.0,108,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+P06,Altair Engineering,0.0,15.512052865076164,0.0715205832146281,0.1090233611516148,644660000.0,10000000000.0,30,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+P02,Nuance Communications,1.0,13.464561547399358,,0.1529984279953523,1463100000.0,19700000000.0,102,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+L09,"Tableau Software, Inc.",0.0,13.175506984277508,,-0.0768266329866021,1191605000.0,15700000000.0,71,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+L03,Demandware Inc,0.0,11.020021016754368,0.4253905921292531,-0.1157968065553382,254083000.0,2800000000.0,62,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+L22,Avalara,0.0,10.640561821664184,,-0.1250848711478632,789432000.0,8400000000.0,39,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+L21,Coupa Software,0.0,9.77866003021606,,-0.156732362964303,818108000.0,8000000000.0,42,B,needs_review (true extreme or data error),,,,,top10_ev_revenue
+L36,Verint Systems,1.0,2.2321279098577467,,0.1515034497536846,896006000.0,2000000000.0,117,B,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L44,Dun & Bradstreet,0.0,3.232984842759373,0.0292566983578219,0.3243061678632909,2381700000.0,7700000000.0,83,B,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L10,"Carbonite, Inc.",0.0,3.5036899777194925,0.4416150305548243,0.1437401150295963,405287000.0,1420000000.0,42,B,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+P04,Alteryx Inc.,0.0,4.782608695652174,,,920000000.0,4400000000.0,79,B,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L42,Sumo Logic,0.0,4.784820324762817,0.2562339679271292,-0.3900973732827714,287964000.0,1377856000.0,101,C,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L43,Informatica,0.0,5.167188221164883,,0.1755510152793317,1655308000.0,8553288000.0,57,A,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L19,Citrix Systems,0.0,5.195250093042207,,,3175978000.0,16500000000.0,123,B,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L34,Olo,0.0,5.488096233120589,,0.0039417332259024,299107000.0,1641528000.0,94,A,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L35,SolarWinds,0.0,5.607059798018415,,0.3400630794227277,784725000.0,4400000000.0,130,B,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L37,MeridianLink,0.0,6.137021273984247,0.0596048237899069,0.2121721679948203,325891000.0,2000000000.0,42,B,needs_review (true extreme or data error),,,,,bottom10_ev_revenue
+L08,"MuleSoft, Inc.",0.0,21.92568205737108,0.579018572866677,-0.2562336400680033,296456000.0,6500000000.0,79,B,needs_review (true extreme or data error),,,,,largest_growth
+L14,"Slack Technologies, Inc.",0.0,36.06104079714428,0.5138517448448885,-0.3942812657034767,768142000.0,27700000000.0,123,B,needs_review (true extreme or data error),,,,,largest_growth
+L10,"Carbonite, Inc.",0.0,3.5036899777194925,0.4416150305548243,0.1437401150295963,405287000.0,1420000000.0,42,B,needs_review (true extreme or data error),,,,,largest_growth
+L03,Demandware Inc,0.0,11.020021016754368,0.4253905921292531,-0.1157968065553382,254083000.0,2800000000.0,62,B,needs_review (true extreme or data error),,,,,largest_growth
+P08,Qualtrics International,0.0,8.007747154805978,0.3559542623408014,-0.6522932949403538,1458600000.0,11680100000.0,72,C,needs_review (true extreme or data error),,,,,largest_growth
+P03,Anaplan Inc.,0.0,17.056802369565805,0.3224117909781152,-0.2907902380373403,592176000.0,10100629000.0,48,C,needs_review (true extreme or data error),,,,,largest_growth
+L05,Cvent Inc,0.0,8.014974749089049,0.3196667721185278,0.0198331522086556,187716000.0,1504539000.0,109,A,needs_review (true extreme or data error),,,,,largest_growth
+P01,Splunk Inc.,0.0,7.657585408373013,0.264782617852874,0.0181263497515156,3843300000.0,29430398000.0,52,C,needs_review (true extreme or data error),,,,,largest_growth
+L42,Sumo Logic,0.0,4.784820324762817,0.2562339679271292,-0.3900973732827714,287964000.0,1377856000.0,101,C,needs_review (true extreme or data error),,,,,largest_growth
+L06,Apptio Inc,0.0,7.987040786809373,0.2450961922071013,-0.065459157562137,224705000.0,1794728000.0,42,B,needs_review (true extreme or data error),,,,,largest_growth
+P08,Qualtrics International,0.0,8.007747154805978,0.3559542623408014,-0.6522932949403538,1458600000.0,11680100000.0,72,C,needs_review (true extreme or data error),,,,,most_negative_margin
+L14,"Slack Technologies, Inc.",0.0,36.06104079714428,0.5138517448448885,-0.3942812657034767,768142000.0,27700000000.0,123,B,needs_review (true extreme or data error),,,,,most_negative_margin
+L42,Sumo Logic,0.0,4.784820324762817,0.2562339679271292,-0.3900973732827714,287964000.0,1377856000.0,101,C,needs_review (true extreme or data error),,,,,most_negative_margin
+P03,Anaplan Inc.,0.0,17.056802369565805,0.3224117909781152,-0.2907902380373403,592176000.0,10100629000.0,48,C,needs_review (true extreme or data error),,,,,most_negative_margin
+L08,"MuleSoft, Inc.",0.0,21.92568205737108,0.579018572866677,-0.2562336400680033,296456000.0,6500000000.0,79,B,needs_review (true extreme or data error),,,,,most_negative_margin
+L04,Marketo Inc,0.0,7.507145542605657,,-0.2328416303602627,226085000.0,1697253000.0,61,B,needs_review (true extreme or data error),,,,,most_negative_margin
+L11,"Instructure, Inc.",0.0,7.6275918526935715,0.2397449103247697,-0.217432563974113,245529000.0,1872795000.0,65,A,needs_review (true extreme or data error),,,,,most_negative_margin
+L15,Talend S.A.,0.0,8.348668213489361,0.1598073113559617,-0.2169644938098104,287471000.0,2400000000.0,69,B,needs_review (true extreme or data error),,,,,most_negative_margin
+L23,Ping Identity,0.0,9.081503248259107,,-0.1717571735767176,308319000.0,2800000000.0,34,B,needs_review (true extreme or data error),,,,,most_negative_margin
+L21,Coupa Software,0.0,9.77866003021606,,-0.156732362964303,818108000.0,8000000000.0,42,B,needs_review (true extreme or data error),,,,,most_negative_margin

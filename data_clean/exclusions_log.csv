@@ -1,0 +1,94 @@
+outcome,step,reason,deal_id
+EV/Revenue,Primary sectors,sector_out_of_scope,P05
+EV/Revenue,EV available,ev_missing,L17
+EV/Revenue,EV available,ev_missing,L33
+EV/Revenue,EV available,ev_missing,L25
+EV/Revenue,EV available,ev_missing,L31
+EV/Revenue,EV available,ev_missing,L27
+EV/Revenue,EV available,ev_missing,L07
+EV/Revenue,EV available,ev_missing,L01
+EV/Revenue,EV available,ev_missing,L32
+EV/Revenue,EV available,ev_missing,L41
+EV/Revenue,EV available,ev_missing,L48
+EV/Revenue,EV available,ev_missing,L24
+EV/Revenue,EV available,ev_missing,L16
+EV/Revenue,EV available,ev_missing,L38
+EV/Revenue,EV available,ev_missing,L02
+EV/Revenue,EV available,ev_missing,L18
+EV/Revenue,EV available,ev_missing,L29
+EV/Revenue,EV available,ev_missing,L13
+EV/Revenue,EV available,ev_missing,L20
+EV/Revenue,EV available,ev_missing,L30
+EV/EBITDA,Primary sectors,sector_out_of_scope,P05
+EV/EBITDA,EV available,ev_missing,L17
+EV/EBITDA,EV available,ev_missing,L33
+EV/EBITDA,EV available,ev_missing,L25
+EV/EBITDA,EV available,ev_missing,L31
+EV/EBITDA,EV available,ev_missing,L27
+EV/EBITDA,EV available,ev_missing,L07
+EV/EBITDA,EV available,ev_missing,L01
+EV/EBITDA,EV available,ev_missing,L32
+EV/EBITDA,EV available,ev_missing,L41
+EV/EBITDA,EV available,ev_missing,L48
+EV/EBITDA,EV available,ev_missing,L24
+EV/EBITDA,EV available,ev_missing,L16
+EV/EBITDA,EV available,ev_missing,L38
+EV/EBITDA,EV available,ev_missing,L02
+EV/EBITDA,EV available,ev_missing,L18
+EV/EBITDA,EV available,ev_missing,L29
+EV/EBITDA,EV available,ev_missing,L13
+EV/EBITDA,EV available,ev_missing,L20
+EV/EBITDA,EV available,ev_missing,L30
+EV/EBITDA,EBITDA available,ebitda_missing,P04
+EV/EBITDA,EBITDA available,ebitda_missing,L19
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,P03
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L06
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L22
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L21
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L03
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L11
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L04
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L08
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L26
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L23
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,P08
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L14
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,P07
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L42
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L09
+EV/EBITDA,EBITDA > 0,ebitda_nonpositive,L15
+Takeover premium,Primary sectors,sector_out_of_scope,P05
+Takeover premium,Unaffected price available,unaffected_price_missing,P06
+Takeover premium,Unaffected price available,unaffected_price_missing,P04
+Takeover premium,Unaffected price available,unaffected_price_missing,L40
+Takeover premium,Unaffected price available,unaffected_price_missing,L06
+Takeover premium,Unaffected price available,unaffected_price_missing,L22
+Takeover premium,Unaffected price available,unaffected_price_missing,L19
+Takeover premium,Unaffected price available,unaffected_price_missing,L17
+Takeover premium,Unaffected price available,unaffected_price_missing,L45
+Takeover premium,Unaffected price available,unaffected_price_missing,L33
+Takeover premium,Unaffected price available,unaffected_price_missing,L21
+Takeover premium,Unaffected price available,unaffected_price_missing,L05
+Takeover premium,Unaffected price available,unaffected_price_missing,L39
+Takeover premium,Unaffected price available,unaffected_price_missing,L03
+Takeover premium,Unaffected price available,unaffected_price_missing,L31
+Takeover premium,Unaffected price available,unaffected_price_missing,L27
+Takeover premium,Unaffected price available,unaffected_price_missing,L01
+Takeover premium,Unaffected price available,unaffected_price_missing,L43
+Takeover premium,Unaffected price available,unaffected_price_missing,L11
+Takeover premium,Unaffected price available,unaffected_price_missing,L32
+Takeover premium,Unaffected price available,unaffected_price_missing,L41
+Takeover premium,Unaffected price available,unaffected_price_missing,L04
+Takeover premium,Unaffected price available,unaffected_price_missing,L12
+Takeover premium,Unaffected price available,unaffected_price_missing,L24
+Takeover premium,Unaffected price available,unaffected_price_missing,L26
+Takeover premium,Unaffected price available,unaffected_price_missing,L23
+Takeover premium,Unaffected price available,unaffected_price_missing,L16
+Takeover premium,Unaffected price available,unaffected_price_missing,L02
+Takeover premium,Unaffected price available,unaffected_price_missing,L18
+Takeover premium,Unaffected price available,unaffected_price_missing,L14
+Takeover premium,Unaffected price available,unaffected_price_missing,P07
+Takeover premium,Unaffected price available,unaffected_price_missing,L35
+Takeover premium,Unaffected price available,unaffected_price_missing,L42
+Takeover premium,Unaffected price available,unaffected_price_missing,L36
+Takeover premium,Unaffected price available,unaffected_price_missing,L20

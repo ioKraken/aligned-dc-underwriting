@@ -1,0 +1,4 @@
+evaluation,n,n_pos,tp,fp,fn,tn,precision,recall,f1,specificity,fn_rate,fn_rate_ci_low,fn_rate_ci_high,est_missed_strict_ai_in_noncandidate_pool,recall_ci_low,note
+phase2_keyword_screen_vs_human(on labelled rows),19,3.0,3.0,5.0,0.0,11.0,0.375,1.0,0.5454545454545454,0.6875,,,,,,
+false_negative_audit(random 20% of non-candidates),11,0.0,,,,,,,,,0.0,2.7755575615628914e-17,0.2588400172488141,0.0,,
+candidate_screen_recall_estimate,3,,,,,,,1.0,,,,,,,0.20125258544628782,MEETS >=90% target

@@ -1,0 +1,2 @@
+company_id,company,final_class,alternative_class,reason_ambiguous,evidence_for,evidence_against,adjudication
+81,Verint Systems,2 AI-native,1 AI-enabled,AI-enabled vs AI-native,Adjudicated by project owner: Da Vinci AI / bot factory treated as platform core (coder 1 view); coder 2 coded the broader suite more conservatively.,Verint’s broader portfolio includes conventional workforce/customer engagement and analytics tools; models are mixed-source and AI-specific revenue is not separately disclosed.,"coder1=2, coder2=1, final=2"
